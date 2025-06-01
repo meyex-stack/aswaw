@@ -16,3 +16,5 @@ function KeySystemUI.New(json)
 end
 KeySystemUI.Finished = function() return true end
 KeySystemUI.Closed = false
+
+return KeySystemUI
